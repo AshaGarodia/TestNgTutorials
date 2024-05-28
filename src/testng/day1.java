@@ -9,5 +9,9 @@ public class day1 {
 	{
     System.out.println("Hello");
 	}
-
+    @Test
+    public void secondTest()
+    {
+    	 System.out.println("Hi");
+    }
 }
